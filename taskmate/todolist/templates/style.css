@@ -1,0 +1,9 @@
+body{
+    background-image: url("bkg.png");
+}
+.top{
+    height: 50px;
+}
+.sites{
+    margin-top: 10px;
+}
